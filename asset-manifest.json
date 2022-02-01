@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/cosaDirectory/static/js/main.aebafeea.js",
+    "static/media/cosaLogo.svg": "/cosaDirectory/static/media/cosaLogo.1f6acda3c2624147b4c63ad9306455a8.svg",
+    "static/media/odmlib.yaml": "/cosaDirectory/static/media/odmlib.013032dd573374f40c7f.yaml",
+    "static/media/vde.yaml": "/cosaDirectory/static/media/vde.013032dd573374f40c7f.yaml",
+    "index.html": "/cosaDirectory/index.html",
+    "main.aebafeea.js.map": "/cosaDirectory/static/js/main.aebafeea.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aebafeea.js"
+  ]
+}
