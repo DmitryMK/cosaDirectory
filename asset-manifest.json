@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/cosaDirectory/static/js/main.2bf4e366.js",
+    "main.js": "/cosaDirectory/static/js/main.d3680899.js",
     "static/js/470.8d631002.chunk.js": "/cosaDirectory/static/js/470.8d631002.chunk.js",
     "static/js/221.e0fd7e63.chunk.js": "/cosaDirectory/static/js/221.e0fd7e63.chunk.js",
     "static/js/387.d269a7b9.chunk.js": "/cosaDirectory/static/js/387.d269a7b9.chunk.js",
@@ -10,9 +10,9 @@
     "static/media/cosaLogo.png": "/cosaDirectory/static/media/cosaLogo.97dbb603768c36e1ef71.png",
     "static/media/cosaLogo.svg": "/cosaDirectory/static/media/cosaLogo.1f6acda3c2624147b4c63ad9306455a8.svg",
     "index.html": "/cosaDirectory/index.html",
-    "main.2bf4e366.js.map": "/cosaDirectory/static/js/main.2bf4e366.js.map"
+    "main.d3680899.js.map": "/cosaDirectory/static/js/main.d3680899.js.map"
   },
   "entrypoints": [
-    "static/js/main.2bf4e366.js"
+    "static/js/main.d3680899.js"
   ]
 }
