@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/cosaDirectory/static/js/main.f7b60f4d.js",
+    "main.js": "/cosaDirectory/static/js/main.ca4ed609.js",
     "static/js/180.5d4323d6.chunk.js": "/cosaDirectory/static/js/180.5d4323d6.chunk.js",
     "static/js/534.c0f3aae7.chunk.js": "/cosaDirectory/static/js/534.c0f3aae7.chunk.js",
     "static/js/626.1317d333.chunk.js": "/cosaDirectory/static/js/626.1317d333.chunk.js",
@@ -25,9 +25,9 @@
     "static/media/eu_interchange_2022.md": "/cosaDirectory/static/media/eu_interchange_2022.d3567846c4132f658c74.md",
     "static/media/README.md": "/cosaDirectory/static/media/README.0c4d01b7858e189f82ef.md",
     "static/media/eu_workshop_2022.md": "/cosaDirectory/static/media/eu_workshop_2022.51a4cbdc1b78fc54063e.md",
-    "main.f7b60f4d.js.map": "/cosaDirectory/static/js/main.f7b60f4d.js.map"
+    "main.ca4ed609.js.map": "/cosaDirectory/static/js/main.ca4ed609.js.map"
   },
   "entrypoints": [
-    "static/js/main.f7b60f4d.js"
+    "static/js/main.ca4ed609.js"
   ]
 }
