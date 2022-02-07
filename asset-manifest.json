@@ -1,6 +1,7 @@
 {
   "files": {
-    "main.js": "/cosaDirectory/static/js/main.ca4ed609.js",
+    "main.css": "/cosaDirectory/static/css/main.bb450fce.css",
+    "main.js": "/cosaDirectory/static/js/main.aefc02d4.js",
     "static/js/180.5d4323d6.chunk.js": "/cosaDirectory/static/js/180.5d4323d6.chunk.js",
     "static/js/534.c0f3aae7.chunk.js": "/cosaDirectory/static/js/534.c0f3aae7.chunk.js",
     "static/js/626.1317d333.chunk.js": "/cosaDirectory/static/js/626.1317d333.chunk.js",
@@ -16,18 +17,27 @@
     "static/media/cosaLogo.png": "/cosaDirectory/static/media/cosaLogo.97dbb603768c36e1ef71.png",
     "static/media/webinar_Q2_2022.png": "/cosaDirectory/static/media/webinar_Q2_2022.97dbb603768c36e1ef71.png",
     "static/media/cosaLogo.svg": "/cosaDirectory/static/media/cosaLogo.1f6acda3c2624147b4c63ad9306455a8.svg",
-    "static/media/about_board.md": "/cosaDirectory/static/media/about_board.a0604ef3d049597350c4.md",
+    "static/media/other_application_example.md": "/cosaDirectory/static/media/other_application_example.6121839791e855e08309.md",
+    "static/media/other_application_guidance.md": "/cosaDirectory/static/media/other_application_guidance.6424966c492365dc8cde.md",
+    "static/media/other_faq.md": "/cosaDirectory/static/media/other_faq.ef7245b5d7b59ebf0aee.md",
+    "static/media/about_evaluation_criteria.md": "/cosaDirectory/static/media/about_evaluation_criteria.708280a3a9b3789845c4.md",
+    "static/media/about_charter.md": "/cosaDirectory/static/media/about_charter.c94d574d4ccfa1814b7f.md",
+    "static/media/about_board.md": "/cosaDirectory/static/media/about_board.475861d3e4f224fc749b.md",
     "static/media/us_interchange_2021.md": "/cosaDirectory/static/media/us_interchange_2021.d4a588275957623b0be8.md",
     "static/media/reddit.svg": "/cosaDirectory/static/media/reddit.0971185dc9dde5e5cbad907a270c4cce.svg",
+    "static/media/other_os.md": "/cosaDirectory/static/media/other_os.eaf087b2481ea88778e1.md",
     "static/media/spotlight_Q4_2021.md": "/cosaDirectory/static/media/spotlight_Q4_2021.02ef0d541ed4d0e18cff.md",
     "static/media/github.svg": "/cosaDirectory/static/media/github.1c8d03f66201dcd2c19254f2628533e0.svg",
     "index.html": "/cosaDirectory/index.html",
     "static/media/eu_interchange_2022.md": "/cosaDirectory/static/media/eu_interchange_2022.d3567846c4132f658c74.md",
     "static/media/README.md": "/cosaDirectory/static/media/README.0c4d01b7858e189f82ef.md",
+    "static/media/other_application_empty.md": "/cosaDirectory/static/media/other_application_empty.894970fd44d57125327b.md",
     "static/media/eu_workshop_2022.md": "/cosaDirectory/static/media/eu_workshop_2022.51a4cbdc1b78fc54063e.md",
-    "main.ca4ed609.js.map": "/cosaDirectory/static/js/main.ca4ed609.js.map"
+    "main.bb450fce.css.map": "/cosaDirectory/static/css/main.bb450fce.css.map",
+    "main.aefc02d4.js.map": "/cosaDirectory/static/js/main.aefc02d4.js.map"
   },
   "entrypoints": [
-    "static/js/main.ca4ed609.js"
+    "static/css/main.bb450fce.css",
+    "static/js/main.aefc02d4.js"
   ]
 }
